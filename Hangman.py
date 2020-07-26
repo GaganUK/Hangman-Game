@@ -34,7 +34,7 @@ while turns > 0:
             print(char)
 
         else:
-            print("_")
+            print("____")
 
 
             failed += 1
